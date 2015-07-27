@@ -1,0 +1,23 @@
+{
+  "name": "react-reflux",
+  "version": "1.0.0",
+  "description": "A simple app to combine reflux and reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "RefluxJS"
+  ],
+  "author": "Chris Frank <chris@cfrank.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.2.0"
+  }
+}

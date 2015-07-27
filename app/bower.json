@@ -1,0 +1,25 @@
+{
+  "name": "react-reflux",
+  "version": "1.0.0",
+  "authors": [
+    "Chris Frank <chris@cfrank.org>"
+  ],
+  "description": "A simple app to combine ReactJS and RefluxJS",
+  "keywords": [
+    "ReactJS",
+    "RefluxJS"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.cfrank.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "reflux": "~0.2.10"
+  }
+}

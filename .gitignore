@@ -1,0 +1,10 @@
+# Files which are not related to our project but might get added
+*.log
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files which can be installed by the user and don't need to be inc.
+# Use npm install, bower install, etc...
+node_modules
+bower_components

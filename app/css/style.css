@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;
+   	text-shadow: 1px 1px 1px rgba(0,0,0,0.004) !important;
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 100px auto 0;
+	text-align: center;
+}
+
+#alertContainer,
+#loopContainer{
+	height: 40px;
+	line-height: 40px;
+}
+
+#alertContainer span,
+#loopContainer span,
+#bottom{
+	display: none;
+}
+.show{
+	display: block !important;
+}
