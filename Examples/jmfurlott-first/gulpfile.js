@@ -15,7 +15,6 @@ gulp.task('scripts', function(){
 
 gulp.task('webserver',function(){
 	connect.server({
-		root: 'app',
 		port: '1337',
 		livereload: true
 	});
