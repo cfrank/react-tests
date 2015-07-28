@@ -12,6 +12,8 @@ Every project should have it's own README with information about the build proce
 * [SASS](http://sass-lang.com/)
 * [Babel](https://babeljs.io/)
 * [Webpack](http://webpack.github.io/)
+* [NPM](https://www.npmjs.com/)
+* [Bower](http://bower.io/)
 * [Gulp](http://gulpjs.com/)
 * [React-Router](https://github.com/rackt/react-router)
 * [Jest](https://facebook.github.io/jest/)
