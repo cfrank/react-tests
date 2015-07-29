@@ -1,0 +1,15 @@
+{
+  "name": "todo-tyler",
+  "version": "1.0.0",
+  "description": "Following a tutorial about building a todo app with React and Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ReactJS",
+    "Flux"
+  ],
+  "author": "Chris Frank <chris@cfrank.org>",
+  "license": "MIT"
+}

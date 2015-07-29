@@ -1,0 +1,25 @@
+{
+  "name": "todo-tyler",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cfrank/react-tests",
+  "authors": [
+    "Chris Frank <chris@cfrank.org>"
+  ],
+  "description": "Following a tutorial on combining React and Flux",
+  "keywords": [
+    "ReactJS",
+    "Flux"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "flux": "~2.0.2"
+  }
+}
