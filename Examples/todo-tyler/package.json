@@ -1,8 +1,8 @@
 {
   "name": "todo-tyler",
   "version": "1.0.0",
-  "description": "Following a tutorial about building a todo app with React and Flux",
-  "main": "index.js",
+  "description": "A app which used React and Flux to build a todo application",
+  "main": "app/App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,13 @@
     "Flux"
   ],
   "author": "Chris Frank <chris@cfrank.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.10.5"
+  },
+  "dependencies": {
+    "flux": "^2.0.3",
+    "react": "^0.13.3"
+  }
 }
