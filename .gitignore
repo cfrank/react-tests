@@ -8,3 +8,6 @@
 # Use npm install, bower install, etc...
 node_modules
 bower_components
+
+# Remove bundle.js from tyler.todo
+bundle.js
